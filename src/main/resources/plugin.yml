@@ -1,0 +1,4 @@
+name: PreventOn9Abuse
+version: '${project.version}'
+main: me.lurhx.preventon9abuse.PreventOn9Abuse
+api-version: 1.18
